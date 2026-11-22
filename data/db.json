@@ -1,0 +1,686 @@
+{
+  "accounts": {
+    "acc_mwetgkkf_211itu": {
+      "accountId": "acc_mwetgkkf_211itu",
+      "sessionToken": "acc_mwetgkkf_qkdlfo",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "coins": 543,
+      "xp": 265,
+      "level": 3,
+      "unlockedArenas": [
+        "practice"
+      ],
+      "unlockedGuns": [
+        "basic_pistol"
+      ],
+      "unlockedKnives": [
+        "basic_knife"
+      ],
+      "unlockedGrenades": [
+        "frag_grenade"
+      ],
+      "unlockedCharacters": [
+        "cubix",
+        "volt"
+      ],
+      "unlockedAirplanes": [
+        "cargo_carrier"
+      ],
+      "unlockedParachutes": [
+        "classic_white"
+      ],
+      "unlockedAchievements": [
+        "first_blood"
+      ],
+      "equipped": {
+        "arenaId": "practice",
+        "gunId": "basic_pistol",
+        "knifeId": "basic_knife",
+        "grenadeId": "frag_grenade",
+        "characterId": "cubix",
+        "airplaneId": "cargo_carrier",
+        "parachuteId": "classic_white"
+      },
+      "customization": {
+        "characterId": "cubix",
+        "primaryColor": "#f43f5e",
+        "secondaryColor": "#f59e0b",
+        "visorColor": "#38bdf8",
+        "headgear": "visor_cap"
+      },
+      "totalWins": 0,
+      "totalMatches": 13,
+      "totalKOs": 5,
+      "totalCoinsCollected": 35,
+      "bestSurvivalWave": 0,
+      "tournamentWins": 0,
+      "dailyDate": "2026-11-14",
+      "dailyChallenges": [
+        {
+          "id": "dc_kos_2026-11-14",
+          "title": "Island Striker",
+          "description": "Score 5 Eliminations in any match.",
+          "type": "kos",
+          "target": 5,
+          "progress": 3,
+          "rewardCoins": 150,
+          "rewardXp": 100,
+          "claimed": false
+        },
+        {
+          "id": "dc_coins_2026-11-14",
+          "title": "Treasure Dash",
+          "description": "Collect 10 Arena Pickups inside matches.",
+          "type": "coins",
+          "target": 10,
+          "progress": 10,
+          "rewardCoins": 150,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "dc_win_2026-11-14",
+          "title": "Crown Claimer",
+          "description": "Win 1 Match or reach Survival Wave 4.",
+          "type": "wins",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 150,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "battleRoyaleWins": 0,
+      "animalsHunted": 1,
+      "shipsBoarded": 1
+    },
+    "smoke_test_acc_1": {
+      "accountId": "smoke_test_acc_1",
+      "sessionToken": "acc_mwkp3gyq_k58fl4",
+      "avatarIcon": "shield",
+      "isGuest": true,
+      "playerName": "Tester",
+      "playerTag": "2735",
+      "coins": 300,
+      "xp": 0,
+      "level": 1,
+      "unlockedArenas": [
+        "practice"
+      ],
+      "unlockedGuns": [
+        "basic_pistol"
+      ],
+      "unlockedKnives": [
+        "basic_knife"
+      ],
+      "unlockedGrenades": [
+        "frag_grenade"
+      ],
+      "unlockedCharacters": [
+        "cubix",
+        "volt"
+      ],
+      "unlockedAirplanes": [
+        "cargo_carrier"
+      ],
+      "unlockedParachutes": [
+        "classic_white"
+      ],
+      "unlockedEmotes": [
+        "hello_wave"
+      ],
+      "equippedEmotes": [
+        "hello_wave"
+      ],
+      "unlockedAchievements": [],
+      "equipped": {
+        "arenaId": "practice",
+        "gunId": "basic_pistol",
+        "knifeId": "basic_knife",
+        "grenadeId": "frag_grenade",
+        "characterId": "cubix",
+        "airplaneId": "cargo_carrier",
+        "parachuteId": "classic_white"
+      },
+      "customization": {
+        "characterId": "cubix",
+        "primaryColor": "#2563eb",
+        "secondaryColor": "#f59e0b",
+        "visorColor": "#38bdf8",
+        "headgear": "visor_cap"
+      },
+      "totalWins": 0,
+      "battleRoyaleWins": 0,
+      "totalMatches": 0,
+      "totalKOs": 0,
+      "totalCoinsCollected": 0,
+      "bestSurvivalWave": 0,
+      "tournamentWins": 0,
+      "animalsHunted": 0,
+      "shipsBoarded": 0,
+      "dailyDate": "2026-11-17",
+      "dailyChallenges": [
+        {
+          "id": "dc_kos_2026-11-17",
+          "title": "Island Striker",
+          "description": "Score 5 Eliminations in any match.",
+          "type": "kos",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 150,
+          "rewardXp": 100,
+          "claimed": false
+        },
+        {
+          "id": "dc_coins_2026-11-17",
+          "title": "Treasure Dash",
+          "description": "Collect 10 Arena Pickups inside matches.",
+          "type": "coins",
+          "target": 10,
+          "progress": 0,
+          "rewardCoins": 150,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "dc_win_2026-11-17",
+          "title": "Crown Claimer",
+          "description": "Win 1 Match or reach Survival Wave 4.",
+          "type": "wins",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 150,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "banned": false,
+      "banReason": "",
+      "isVipAllUnlocked": false,
+      "role": "player"
+    },
+    "user_ayushgupta": {
+      "accountId": "user_ayushgupta",
+      "sessionToken": "acc_mwg8xz3a_2zjn79",
+      "username": "ayushgupta",
+      "avatarIcon": "crown",
+      "avatarUrl": "preset:crown",
+      "isGuest": false,
+      "playerName": "ayushgupta",
+      "playerTag": "8747",
+      "coins": 555,
+      "xp": 40,
+      "level": 1,
+      "unlockedArenas": [
+        "practice"
+      ],
+      "unlockedGuns": [
+        "basic_pistol"
+      ],
+      "unlockedKnives": [
+        "basic_knife"
+      ],
+      "unlockedGrenades": [
+        "frag_grenade"
+      ],
+      "unlockedCharacters": [
+        "cubix",
+        "volt"
+      ],
+      "unlockedAirplanes": [
+        "cargo_carrier"
+      ],
+      "unlockedParachutes": [
+        "classic_white"
+      ],
+      "unlockedEmotes": [
+        "hello_wave"
+      ],
+      "equippedEmotes": [
+        "hello_wave"
+      ],
+      "unlockedAchievements": [],
+      "equipped": {
+        "arenaId": "practice",
+        "gunId": "basic_pistol",
+        "knifeId": "basic_knife",
+        "grenadeId": "frag_grenade",
+        "characterId": "cubix",
+        "airplaneId": "cargo_carrier",
+        "parachuteId": "classic_white"
+      },
+      "customization": {
+        "characterId": "cubix",
+        "primaryColor": "#2563eb",
+        "secondaryColor": "#f59e0b",
+        "visorColor": "#38bdf8",
+        "headgear": "visor_cap"
+      },
+      "totalWins": 0,
+      "battleRoyaleWins": 0,
+      "totalMatches": 1,
+      "totalKOs": 0,
+      "totalCoinsCollected": 25,
+      "bestSurvivalWave": 0,
+      "tournamentWins": 0,
+      "animalsHunted": 1,
+      "shipsBoarded": 0,
+      "dailyDate": "2026-11-20",
+      "dailyChallenges": [
+        {
+          "id": "dc_kos_2026-11-20",
+          "title": "Island Striker",
+          "description": "Score 5 Eliminations in any match.",
+          "type": "kos",
+          "target": 5,
+          "progress": 0,
+          "rewardCoins": 150,
+          "rewardXp": 100,
+          "claimed": false
+        },
+        {
+          "id": "dc_coins_2026-11-20",
+          "title": "Treasure Dash",
+          "description": "Collect 10 Arena Pickups inside matches.",
+          "type": "coins",
+          "target": 10,
+          "progress": 0,
+          "rewardCoins": 150,
+          "rewardXp": 80,
+          "claimed": false
+        },
+        {
+          "id": "dc_win_2026-11-20",
+          "title": "Crown Claimer",
+          "description": "Win 1 Match or reach Survival Wave 4.",
+          "type": "wins",
+          "target": 1,
+          "progress": 0,
+          "rewardCoins": 150,
+          "rewardXp": 160,
+          "claimed": false
+        }
+      ],
+      "policyAccepted": false,
+      "policyAcceptedVersion": "",
+      "policyAcceptedAt": "",
+      "banned": false,
+      "role": "player",
+      "banReason": "",
+      "isVipAllUnlocked": false,
+      "chatMuted": false,
+      "chatMutedAt": "",
+      "chatMutedReason": ""
+    }
+  },
+  "users": {},
+  "leaderboard": [
+    {
+      "id": "lb_1794645410766_dam4",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "characterId": "cubix",
+      "mode": "single",
+      "arena": "practice",
+      "score": 200,
+      "kos": 2,
+      "wave": 1,
+      "createdAt": "2026-11-14T08:36:50.766Z"
+    },
+    {
+      "id": "lb_1794646159837_5dnt",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "characterId": "cubix",
+      "mode": "single",
+      "arena": "practice",
+      "score": 100,
+      "kos": 1,
+      "wave": 1,
+      "createdAt": "2026-11-14T08:49:19.837Z"
+    },
+    {
+      "id": "lb_1794646499466_5tfa",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "characterId": "cubix",
+      "mode": "single",
+      "arena": "practice",
+      "score": 75,
+      "kos": 0,
+      "wave": 1,
+      "createdAt": "2026-11-14T08:54:59.466Z"
+    },
+    {
+      "id": "lb_1794647297805_on8d",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "characterId": "cubix",
+      "mode": "single",
+      "arena": "practice",
+      "score": 40,
+      "kos": 0,
+      "wave": 1,
+      "createdAt": "2026-11-14T09:08:17.805Z"
+    },
+    {
+      "id": "lb_1794646878413_axo5",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "characterId": "cubix",
+      "mode": "single",
+      "arena": "practice",
+      "score": 0,
+      "kos": 0,
+      "wave": 1,
+      "createdAt": "2026-11-14T09:01:18.413Z"
+    },
+    {
+      "id": "lb_1794647524030_dpa5",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "characterId": "cubix",
+      "mode": "single",
+      "arena": "practice",
+      "score": 0,
+      "kos": 0,
+      "wave": 1,
+      "createdAt": "2026-11-14T09:12:04.030Z"
+    },
+    {
+      "id": "lb_1794648068166_cvsc",
+      "playerName": "BlockPlayer",
+      "playerTag": "7976",
+      "characterId": "cubix",
+      "mode": "single",
+      "arena": "practice",
+      "score": 0,
+      "kos": 0,
+      "wave": 1,
+      "createdAt": "2026-11-14T09:21:08.166Z"
+    }
+  ],
+  "gameConfig": {
+    "playerMaxHp": 100,
+    "playerSpeed": 12.2,
+    "jumpForce": 15.2,
+    "gravity": 36,
+    "enemyBotHp": 75,
+    "enemyBotDamage": 1,
+    "weaponDamageMultiplier": 1,
+    "unlimitedAmmo": false,
+    "jeepHp": 1500,
+    "carHp": 1000,
+    "bikeHp": 650,
+    "horseHp": 800,
+    "sharkWhaleHp": 900,
+    "vehicleHpMultiplier": 1,
+    "boatSpeedMultiplier": 1,
+    "creatureSpeedMultiplier": 1,
+    "tribalWarriorHp": 90,
+    "tribalArrowDamage": 16,
+    "captureEscapeSeconds": 3,
+    "animalSpawnCounts": {
+      "lions": 3,
+      "tigers": 3,
+      "wolves": 3,
+      "crocodiles": 5,
+      "bears": 2,
+      "boars": 3,
+      "deer": 4,
+      "mammoths": 2,
+      "tortoises": 3,
+      "snakes": 8,
+      "sharks": 4,
+      "mermaids": 4
+    },
+    "customSpawns": {
+      "tanks": 0,
+      "helicopters": 0,
+      "sharks": 0,
+      "lions": 0
+    },
+    "fruitHealAmount": 15,
+    "coinRewardMultiplier": 1,
+    "lobbyBotCount": 49,
+    "safeZoneSpeedMultiplier": 1,
+    "timeOfDay": "day",
+    "globalBannerMessage": ""
+  },
+  "configVersion": "v1.04",
+  "configHistory": [
+    {
+      "version": "v1.03",
+      "updatedAt": "2026-11-14T09:27:56.716Z",
+      "summary": "Backup before rollback (Reset all settings to factory defaults)",
+      "patch": {},
+      "config": {
+        "playerMaxHp": 100,
+        "playerSpeed": 12.2,
+        "jumpForce": 15.2,
+        "gravity": 36,
+        "enemyBotHp": 75,
+        "enemyBotDamage": 1,
+        "weaponDamageMultiplier": 1,
+        "unlimitedAmmo": false,
+        "jeepHp": 1500,
+        "carHp": 9999,
+        "bikeHp": 650,
+        "horseHp": 800,
+        "sharkWhaleHp": 900,
+        "boatSpeedMultiplier": 1,
+        "creatureSpeedMultiplier": 1,
+        "tribalWarriorHp": 90,
+        "tribalArrowDamage": 16,
+        "captureEscapeSeconds": 3,
+        "animalSpawnCounts": {
+          "lions": 3,
+          "tigers": 3,
+          "wolves": 3,
+          "crocodiles": 5,
+          "bears": 2,
+          "boars": 3,
+          "deer": 4,
+          "mammoths": 2,
+          "tortoises": 3,
+          "snakes": 8,
+          "sharks": 4,
+          "mermaids": 4
+        },
+        "fruitHealAmount": 15,
+        "coinRewardMultiplier": 2,
+        "lobbyBotCount": 49,
+        "safeZoneSpeedMultiplier": 1,
+        "timeOfDay": "day",
+        "globalBannerMessage": ""
+      }
+    },
+    {
+      "version": "v1.02",
+      "updatedAt": "2026-11-14T09:27:56.700Z",
+      "summary": "Snapshot before v1.03: Smoke test patch",
+      "patch": {
+        "carHp": 9999,
+        "coinRewardMultiplier": 2
+      },
+      "config": {
+        "playerMaxHp": 100,
+        "playerSpeed": 12.2,
+        "jumpForce": 15.2,
+        "gravity": 36,
+        "enemyBotHp": 75,
+        "enemyBotDamage": 1,
+        "weaponDamageMultiplier": 1,
+        "unlimitedAmmo": false,
+        "jeepHp": 1500,
+        "carHp": 1000,
+        "bikeHp": 650,
+        "horseHp": 800,
+        "sharkWhaleHp": 900,
+        "boatSpeedMultiplier": 1,
+        "creatureSpeedMultiplier": 1,
+        "tribalWarriorHp": 90,
+        "tribalArrowDamage": 16,
+        "captureEscapeSeconds": 3,
+        "animalSpawnCounts": {
+          "lions": 3,
+          "tigers": 3,
+          "wolves": 3,
+          "crocodiles": 5,
+          "bears": 2,
+          "boars": 3,
+          "deer": 4,
+          "mammoths": 2,
+          "tortoises": 3,
+          "snakes": 8,
+          "sharks": 4,
+          "mermaids": 4
+        },
+        "fruitHealAmount": 15,
+        "coinRewardMultiplier": 1,
+        "lobbyBotCount": 49,
+        "safeZoneSpeedMultiplier": 1,
+        "timeOfDay": "day",
+        "globalBannerMessage": ""
+      }
+    },
+    {
+      "version": "v1.01",
+      "updatedAt": "2026-11-14T09:26:58.284Z",
+      "summary": "Backup before rollback (Reset all settings to factory defaults)",
+      "patch": {},
+      "config": {
+        "playerMaxHp": 100,
+        "playerSpeed": 12.2,
+        "jumpForce": 15.2,
+        "gravity": 36,
+        "enemyBotHp": 75,
+        "enemyBotDamage": 1,
+        "weaponDamageMultiplier": 1,
+        "unlimitedAmmo": false,
+        "jeepHp": 1500,
+        "carHp": 9999,
+        "bikeHp": 650,
+        "horseHp": 800,
+        "sharkWhaleHp": 900,
+        "boatSpeedMultiplier": 1,
+        "creatureSpeedMultiplier": 1,
+        "tribalWarriorHp": 90,
+        "tribalArrowDamage": 16,
+        "captureEscapeSeconds": 3,
+        "animalSpawnCounts": {
+          "lions": 3,
+          "tigers": 3,
+          "wolves": 3,
+          "crocodiles": 5,
+          "bears": 2,
+          "boars": 3,
+          "deer": 4,
+          "mammoths": 2,
+          "tortoises": 3,
+          "snakes": 8,
+          "sharks": 4,
+          "mermaids": 4
+        },
+        "fruitHealAmount": 15,
+        "coinRewardMultiplier": 2,
+        "lobbyBotCount": 49,
+        "safeZoneSpeedMultiplier": 1,
+        "timeOfDay": "day",
+        "globalBannerMessage": ""
+      }
+    },
+    {
+      "version": "v1.00",
+      "updatedAt": "2026-11-14T09:26:58.273Z",
+      "summary": "Snapshot before v1.01: Set car HP to 9999 and doubled coin rewards.",
+      "patch": {
+        "carHp": 9999,
+        "coinRewardMultiplier": 2
+      },
+      "config": {
+        "playerMaxHp": 100,
+        "playerSpeed": 12.2,
+        "jumpForce": 15.2,
+        "gravity": 36,
+        "enemyBotHp": 75,
+        "enemyBotDamage": 1,
+        "weaponDamageMultiplier": 1,
+        "unlimitedAmmo": false,
+        "jeepHp": 1500,
+        "carHp": 1000,
+        "bikeHp": 650,
+        "horseHp": 800,
+        "sharkWhaleHp": 900,
+        "boatSpeedMultiplier": 1,
+        "creatureSpeedMultiplier": 1,
+        "tribalWarriorHp": 90,
+        "tribalArrowDamage": 16,
+        "captureEscapeSeconds": 3,
+        "animalSpawnCounts": {
+          "lions": 3,
+          "tigers": 3,
+          "wolves": 3,
+          "crocodiles": 5,
+          "bears": 2,
+          "boars": 3,
+          "deer": 4,
+          "mammoths": 2,
+          "tortoises": 3,
+          "snakes": 8,
+          "sharks": 4,
+          "mermaids": 4
+        },
+        "fruitHealAmount": 15,
+        "coinRewardMultiplier": 1,
+        "lobbyBotCount": 49,
+        "safeZoneSpeedMultiplier": 1,
+        "timeOfDay": "day",
+        "globalBannerMessage": ""
+      }
+    }
+  ],
+  "paymentQrConfig": {
+    "qrImageUrl": null,
+    "upiId": "",
+    "payeeName": "",
+    "updatedAt": ""
+  },
+  "paymentRecords": [],
+  "policyConfig": {
+    "version": "v1.0",
+    "title": "BLOCK WAR — Official Game Rules, Fair Play & Privacy Policy",
+    "subtitle": "Please review and confirm the official rules before entering the arena.",
+    "sections": [
+      {
+        "id": "fair_play",
+        "title": "1. Fair Play & Anti-Cheat Policy",
+        "body": "BLOCK WAR enforces zero tolerance for hacks, aimbots, wallhacks, speed or fly exploits, map glitch abuse, packet tampering, or unauthorized third-party scripts. Any account caught violating fair play rules faces an immediate and permanent account ban enforced by Administrators."
+      },
+      {
+        "id": "community",
+        "title": "2. Community & Respect Guidelines",
+        "body": "Keep usernames, player tags, squad communications, and lobby interactions respectful at all times. Harassment, hate speech, offensive names, spamming, or impersonating BLOCK WAR Admins or moderators is strictly prohibited."
+      },
+      {
+        "id": "virtual_coins",
+        "title": "3. Virtual Coins & UPI Top-Up Policy (₹1 = 100 Coins)",
+        "body": "Virtual Coins, Emotes, Character Skins, Maps, Vehicles, and Weapons are in-game digital items with no real-world cash value. All UPI Coin Top-Ups (₹1 = 100 Coins) require valid 12-digit UTR receipt verification. Players under 18 must obtain explicit parent or legal guardian consent before making any UPI top-up."
+      },
+      {
+        "id": "account_security",
+        "title": "4. Account Security & Data Storage",
+        "body": "Your player profile, unlocked items, match statistics, leaderboard rankings, and policy confirmation timestamps are securely stored to sync progress across sessions and maintain fair competition. Keep your account credentials private and never share your password."
+      },
+      {
+        "id": "mechanics_disclaimer",
+        "title": "5. In-Game Mechanics & Disclaimer",
+        "body": "All BLOCK WAR gameplay—including 50-player Battle Royale combat, Airport Police Wanted stars, vehicle arrest fines (200 Coins) and jail bail (1,000 Coins), Tribal Island survival, sea exploration, and aircraft/vehicle stunts—is fictional 3D action entertainment."
+      }
+    ],
+    "updatedAt": "2026-01-01T00:00:00.000Z"
+  },
+  "policyRecords": {},
+  "chatHistory": []
+}

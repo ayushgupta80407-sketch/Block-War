@@ -1,0 +1,6 @@
+{
+  "name": "BLOCK WAR",
+  "description": "3D block-style multiplayer island battleground with rideable vehicles, horses, ocean wildlife, 3-heart survival, coin shops, and responsive mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

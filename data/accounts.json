@@ -1,0 +1,82 @@
+{
+  "acc_mweu62h5_werk4": {
+    "accountId": "acc_mweu62h5_werk4",
+    "sessionToken": "tok_mweu62h5_cuv1duyd",
+    "playerName": "SmokeTester",
+    "playerTag": "99XZ",
+    "coins": 500,
+    "xp": 0,
+    "level": 1,
+    "unlockedArenas": [
+      "practice"
+    ],
+    "unlockedGuns": [
+      "basic_pistol"
+    ],
+    "unlockedKnives": [
+      "basic_knife"
+    ],
+    "unlockedGrenades": [],
+    "unlockedCharacters": [
+      "cubix",
+      "volt"
+    ],
+    "unlockedAchievements": [],
+    "equipped": {
+      "arenaId": "practice",
+      "gunId": "basic_pistol",
+      "knifeId": "basic_knife",
+      "grenadeId": null,
+      "characterId": "cubix"
+    },
+    "customization": {
+      "characterId": "cubix",
+      "primaryColor": "#2563eb",
+      "secondaryColor": "#f59e0b",
+      "visorColor": "#38bdf8",
+      "headgear": "visor_cap"
+    },
+    "totalWins": 0,
+    "totalMatches": 0,
+    "totalKOs": 0,
+    "totalCoinsCollected": 0,
+    "bestSurvivalWave": 0,
+    "tournamentWins": 0,
+    "dailyDate": "2026-11-13",
+    "dailyChallenges": [
+      {
+        "id": "dc_kos_2026-11-13",
+        "title": "Arena Striker",
+        "description": "Score 5 Eliminations in any match.",
+        "type": "kos",
+        "target": 5,
+        "progress": 0,
+        "rewardCoins": 150,
+        "rewardXp": 100,
+        "claimed": false
+      },
+      {
+        "id": "dc_coins_2026-11-13",
+        "title": "Treasure Dash",
+        "description": "Collect 10 Arena Pickups inside matches.",
+        "type": "coins",
+        "target": 10,
+        "progress": 0,
+        "rewardCoins": 150,
+        "rewardXp": 80,
+        "claimed": false
+      },
+      {
+        "id": "dc_win_2026-11-13",
+        "title": "Crown Claimer",
+        "description": "Win 1 Match or reach Survival Wave 4.",
+        "type": "wins",
+        "target": 1,
+        "progress": 0,
+        "rewardCoins": 150,
+        "rewardXp": 160,
+        "claimed": false
+      }
+    ]
+  }
+}
